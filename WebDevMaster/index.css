@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 25px;
+}
+
+.header img {
+    width: 30%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.Content {
+    padding-top: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.demo-Regis {
+    background-image: url("../WebDevMaster/Img/bg-regis.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.demo-Regis img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.demo-Regis .item .detail-item {
+    text-align: center;
+    margin: 30px;
+}
+
+.demo-Regis .item .detail-item p {
+    font-size: 1.1vw;
+    text-align: center;
+}
+
+.Info-Regis {
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.Info-Regis .subject {
+    padding: 10px;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+.Info-Regis .subject .title {
+    font-size: 25px;
+    color: #004AA0;
+}
+
+.Info-Regis .subject {
+    font-size: 20px;
+}
+
+.Info-Regis .regis {
+    background-color: #004AA0;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    padding: 30px;
+}
+
+.Info-Regis .regis tr td {
+    padding: 10px;
+    font-size: 2.05vw;
+}
+
+.Info-Regis .regis label {
+    float: left;
+    font-size: 1.4vw;
+    font-weight: 300;
+    color: #fff;
+}
+
+.Info-Regis .regis input {
+    border-radius: 10px;
+}
+
+.btnRegis {
+    padding: 0.5vw;
+    background-color: rgb(161, 161, 7);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.Content .target-session {
+    background-image: url("../WebDevMaster/Img/bg-target-session.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Content .target-session .detail {
+    padding-top: 50px;
+    padding-left: 75px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.Content .target-session .detail {
+    color: #fff;
+}
+
+.Content .target-session .detail li {
+    margin-top: 20px;
+    font-size: 1.4vw;
+}
+
+.Content .target-session .detail .title {
+    font-size: 1.9vw;
+}
+
+.Content .content-program {
+    margin-top: 50px;
+}
+
+.Content .content-program img {
+    width: 100%;
+}
+
+.Content .router {
+    margin-top: 50px;
+}
+
+.Content .router img {
+    width: 100%;
+}
+
+.ChosenDev {
+    padding-top: 30px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-image: url("../WebDevMaster/Img/bg-chosen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.ChosenDev .title {
+    font-size: 1.9vw;
+    color: #fff;
+}
+
+.ChosenDev img {
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.ChosenDev .item {
+    color: rgb(0, 0, 0);
+}
+
+.ChosenDev .item .card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 42vh;
+    margin-bottom: 10px;
+}
+
+.ChosenDev .item .card .card-text {
+    font-size: 1.2vw;
+}
+
+.ChosenDev .item .card img {
+    width: 100%;
+    height: 20vh;
+}
+
+.feeling-dev {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.feeling-dev p {
+    color: #004AA0;
+    font-size: 1.9vw;
+    margin-bottom: 20px;
+}
+
+.feeling-dev .card img {
+    width: 200px;
+    height: 200px;
+    border: 3px solid #004AA0;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.feeling-dev .card .text {
+    font-size: 1.2vw;
+}
+
+.blues {
+    color: #004AA0;
+}
+
+.feeling-dev .row {
+    margin-bottom: 20px;
+}
+
+.feeling-dev .col-lg-9 {
+    margin-top: 50px;
+}
+
+.footer {
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-image: url("../WebDevMaster/Img/bg-chosen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    font-size: 1.9vw;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 600px;
+}
+
+@media only screen and (max-width:995px) {
+    .ChosenDev .item .card {
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        height: 30vh;
+        margin-bottom: 10px;
+    }
+}
